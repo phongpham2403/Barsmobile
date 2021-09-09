@@ -1,0 +1,1 @@
+Tạo bar cho mobile không cần Javascript
